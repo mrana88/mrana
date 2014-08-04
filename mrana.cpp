@@ -19,7 +19,7 @@ int main()
 
 	cout<<"tag"<<endl;
 
-
+	cout<<"tag2"<<endl;
 
 
 	return 0;

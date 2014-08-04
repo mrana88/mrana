@@ -7,6 +7,7 @@ int main()
 	cout<<"making changes in the branch"<<endl;  // more changes 
 	cout<<"i am in master now"<<endl;
 	cout<<"merge is loca but pull is remote"<<endl;
+	cout<<"made changes at unix"<<endl;
 
 
 

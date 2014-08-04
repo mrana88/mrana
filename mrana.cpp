@@ -8,6 +8,7 @@ int main()
 	cout<<"i am in master now"<<endl;
 	cout<<"merge is loca but pull is remote"<<endl;
 	cout<<"made changes at unix"<<endl;
+	cout<<"more changes made at unix"<<endl;
 
 
 

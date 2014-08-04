@@ -17,6 +17,7 @@ int main()
 
 	cout<<"rebase"<<endl;
 
+	cout<<"tag"<<endl;
 
 
 

@@ -9,6 +9,7 @@ int main()
 	cout<<"merge is loca but pull is remote"<<endl;
 	cout<<"made changes at unix"<<endl;
 	cout<<"more changes made at unix"<<endl;
+	cout<<"checking on merge"<<endl;
 
 
 

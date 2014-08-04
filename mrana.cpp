@@ -12,7 +12,12 @@ int main()
 	cout<<"checking on merge"<<endl;
 	cout<<"running experiment"<<endl;
 	cout<<"sync test"<<endl;
+
 	cout<<"fetch command"<<endl;
+
+	cout<<"rebase"<<endl;
+
+
 
 
 

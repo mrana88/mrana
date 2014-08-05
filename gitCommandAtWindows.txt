@@ -1,0 +1,28 @@
+Command history at windows
+30bb520 HEAD@{0}: rebase finished: returning to refs/heads/master
+30bb520 HEAD@{1}: checkout: moving from d0efb296ccf874b91812e35d8b764c3d197435ed to master
+d0efb29 HEAD@{2}: commit: second release
+da3f7d6 HEAD@{3}: commit: added to tag
+3450ff6 HEAD@{4}: commit: resolved
+4226b3f HEAD@{5}: rebase: checkout mrana/mrana2
+30bb520 HEAD@{6}: commit: rebase
+9d7bcf4 HEAD@{7}: pull mrana mrana3: Fast-forward
+c125c8c HEAD@{8}: pull mrana mrana3: Fast-forward
+17140c6 HEAD@{9}: checkout: moving from mrana3 to master
+17140c6 HEAD@{10}: checkout: moving from master to mrana3
+17140c6 HEAD@{11}: pull mrana mrana3: Fast-forward
+432abe8 HEAD@{12}: checkout: moving from mrana2 to master
+432abe8 HEAD@{13}: pull mrana master: Fast-forward
+fd2203e HEAD@{14}: checkout: moving from master to mrana2
+432abe8 HEAD@{15}: checkout: moving from mrana2 to master
+fd2203e HEAD@{16}: checkout: moving from master to mrana2
+432abe8 HEAD@{17}: commit: more changes
+fd2203e HEAD@{18}: checkout: moving from mrana2 to master
+fd2203e HEAD@{19}: merge master: Fast-forward
+cbe0bdd HEAD@{20}: checkout: moving from master to mrana2
+fd2203e HEAD@{21}: commit: more changes
+cbe0bdd HEAD@{22}: merge mrana2: Fast-forward
+26b7f75 HEAD@{23}: checkout: moving from mrana2 to master
+cbe0bdd HEAD@{24}: commit: made chamges in the branch
+26b7f75 HEAD@{25}: checkout: moving from master to mrana2
+26b7f75 HEAD@{26}: commit (initial): first commit

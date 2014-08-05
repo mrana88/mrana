@@ -1,0 +1,27 @@
+Command history at unix(branch mrana2)
+4226b3f HEAD@{0}: commit: fetch
+9d7bcf4 HEAD@{1}: pull mrana master: Fast-forward
+51e6315 HEAD@{2}: checkout: moving from mrana3 to mrana2
+9d7bcf4 HEAD@{3}: commit: sync test
+c125c8c HEAD@{4}: commit: experiment
+17140c6 HEAD@{5}: checkout: moving from mrana3 to mrana3
+17140c6 HEAD@{6}: commit: unix change made again
+51e6315 HEAD@{7}: checkout: moving from mrana2 to mrana3
+51e6315 HEAD@{8}: merge master: Fast-forward
+432abe8 HEAD@{9}: checkout: moving from master to mrana2
+51e6315 HEAD@{10}: pull mrana mrana3: Fast-forward
+8c3f586 HEAD@{11}: checkout: moving from mrana3 to master
+51e6315 HEAD@{12}: commit: more changes from unix
+8c3f586 HEAD@{13}: checkout: moving from master to mrana3
+8c3f586 HEAD@{14}: checkout: moving from master to master
+8c3f586 HEAD@{15}: checkout: moving from mrana3 to master
+8c3f586 HEAD@{16}: checkout: moving from master to mrana3
+8c3f586 HEAD@{17}: merge mrana3: Fast-forward
+432abe8 HEAD@{18}: checkout: moving from mrana3 to master
+8c3f586 HEAD@{19}: checkout: moving from master to mrana3
+432abe8 HEAD@{20}: checkout: moving from mrana2 to master
+432abe8 HEAD@{21}: checkout: moving from master to mrana2
+432abe8 HEAD@{22}: checkout: moving from mrana3 to master
+8c3f586 HEAD@{23}: commit: unic commit
+432abe8 HEAD@{24}: checkout: moving from master to mrana3
+432abe8 HEAD@{25}: clone: from git@github.com:mrana88/mrana.git
